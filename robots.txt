@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://riageameb.github.io/sitemap.html.gz
+Sitemap: https://riageameb.github.io/app/sitemap.html.gz
+Sitemap: https://riageameb.github.io/assets/sitemap.html.gz
+Sitemap: https://riageameb.github.io/css/sitemap.html.gz
+Sitemap: https://riageameb.github.io/includes/sitemap.html.gz
+Sitemap: https://riageameb.github.io/item/sitemap.html.gz
+Sitemap: https://riageameb.github.io/src/sitemap.html.gz
